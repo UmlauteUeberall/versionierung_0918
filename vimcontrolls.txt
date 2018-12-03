@@ -1,0 +1,1 @@
+ZZ geht übrigens auch, macht das selbe wie :wq und braucht nicht mal ein Enter, nützlich wenn dein Enter kaputt ist
